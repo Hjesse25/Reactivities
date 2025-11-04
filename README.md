@@ -1,0 +1,2 @@
+# Reactivities
+Repo to store the code that I typed for the Udemy [course](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/). I'm learning how to build a full-stack web application using ASP.NET Core and React. I want to learn how both the front-end and back-end work together and to get the bigger picture of how software development works.
